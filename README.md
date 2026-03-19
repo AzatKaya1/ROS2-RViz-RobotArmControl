@@ -77,7 +77,6 @@ sudo apt-get install libgmock-dev
 
 ```sh
 
-# Adjust environment to recognize packages and dependencies in your newly built ROS 2 workspace.
 source install/setup.sh
 
 
