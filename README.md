@@ -1,4 +1,4 @@
-# ROS2-RViz-RobotArmControl
+# ROS2 l RViz l RobotArmControl
 This guide aims to control the robot arm by integrating ROS2 with RViz.
 
 **Note: This repository was created inspired by the official Franka_ROS2 GitHub page**
